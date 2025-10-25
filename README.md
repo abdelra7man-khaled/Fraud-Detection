@@ -1,4 +1,4 @@
-🕵# Fraud Detection System
+<h1 align="center">Fraud Detection System</h1>
 
 # Description
 
